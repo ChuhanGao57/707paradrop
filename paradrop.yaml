@@ -1,0 +1,12 @@
+command: node index.js
+config:
+  web:
+    port: 3000
+description: Hello World project
+name: fall2017-apache01-hello
+source:
+  type: git
+  url: git@github.com:ChuhanGao57/707paradrop.git
+type: light
+use: node
+version: 1
